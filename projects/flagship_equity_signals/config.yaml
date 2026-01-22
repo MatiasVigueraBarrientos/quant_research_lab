@@ -1,5 +1,10 @@
-universe: "sp500"     # placeholder
-start: "2010-01-01"
-end: "2024-12-31"
+# Synthetic run for pipeline validation (we will replace with real data next)
+n_assets: 50
+n_days: 1260
+seed: 7
+
+lookback: 252
+long_frac: 0.2
+short_frac: 0.2
 rebalance: "monthly"
 cost_bps: 5

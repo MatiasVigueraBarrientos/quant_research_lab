@@ -1,0 +1,7 @@
+{
+  "sharpe": 0.8406855485503472,
+  "max_drawdown": -0.0859273074277388,
+  "n_days": 1259,
+  "n_assets": 50,
+  "note": "Synthetic data run (placeholder until real data ingestion is added)."
+}

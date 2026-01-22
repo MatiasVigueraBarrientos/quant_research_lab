@@ -3,6 +3,7 @@ from __future__ import annotations
 import math
 from typing import Iterable
 
+
 def annualized_sharpe(returns: Iterable[float], periods_per_year: int = 252) -> float:
     r = list(returns)
     if len(r) < 2:
