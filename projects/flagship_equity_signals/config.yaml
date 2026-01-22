@@ -1,0 +1,5 @@
+universe: "sp500"     # placeholder
+start: "2010-01-01"
+end: "2024-12-31"
+rebalance: "monthly"
+cost_bps: 5

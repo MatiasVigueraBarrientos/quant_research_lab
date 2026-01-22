@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: quantlab
+Version: 0.1.0
+Summary: Quant research lab: data, backtests, risk, and reproducible experiments.
+Requires-Python: >=3.10
