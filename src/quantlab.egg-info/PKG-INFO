@@ -3,3 +3,6 @@ Name: quantlab
 Version: 0.1.0
 Summary: Quant research lab: data, backtests, risk, and reproducible experiments.
 Requires-Python: >=3.10
+Requires-Dist: pyyaml
+Requires-Dist: numpy
+Requires-Dist: matplotlib

@@ -1,0 +1,16 @@
+{
+  "tickers_used": [
+    "EEM",
+    "EFA",
+    "GLD",
+    "IWM",
+    "QQQ",
+    "SPY",
+    "TLT"
+  ],
+  "n_days": 3518,
+  "n_assets": 7,
+  "sharpe": 0.22896383671339984,
+  "max_drawdown": -0.5081562417011556,
+  "note": "Prices via yfinance (auto_adjust=True). Universe is small ETF basket for reproducibility."
+}
